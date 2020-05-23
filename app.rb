@@ -1,11 +1,17 @@
 require 'sinatra'
-require 'json'
+require './lib/checksum_generator.rb'
 
 class ChecksumTestApp < Sinatra::Application
-  set :public_folder, Proc.new { File.join(root, "client") }
 
   get '/' do
-    File.read(File.join('client', 'index.html'))
+    erb :index
+  end
+
+  post '/generate-checksum' do
+    if params[:checksum_text]
+      @checksum =  ChecksumGenerator.new.call(params[:checksum_text])
+    end
+    erb :checksum
   end
 
 end
