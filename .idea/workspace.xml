@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d883ca3b-622d-49b3-ad1b-06a4f10e7b1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/capitalizer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/checksum_filter.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/english_filter.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/inside_capitalizer.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/joiner.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/nil_filter.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/spec_letter_counter.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/word_counter_filter.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/checksum_generator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/checksum_generator.rb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cGZN9fRx09ofEW6C3d12t2MvVB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Ruby" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d883ca3b-622d-49b3-ad1b-06a4f10e7b1a" name="Default Changelist" comment="" />
+      <created>1590156847247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590156847247</updated>
+      <workItem from="1590156849519" duration="5898000" />
+      <workItem from="1590246981355" duration="8000" />
+      <workItem from="1590247000336" duration="6376000" />
+      <workItem from="1590488741416" duration="3682000" />
+      <workItem from="1590497277305" duration="5002000" />
+      <workItem from="1590649266178" duration="119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
